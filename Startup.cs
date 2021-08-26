@@ -17,6 +17,7 @@ namespace PruebaWebMaster
 {
     public class Startup
     {
+        //Inicio
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
